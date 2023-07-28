@@ -1,0 +1,150 @@
+#bg_background{
+    background-size: cover;
+}
+
+.algo{
+    float: left;
+    margin-left: 15px;
+}
+
+#back_patt_scr{
+    float: left;
+    margin-left: 15px;
+}
+
+#image_patt{
+    width: 200px;
+    height: 200px;
+}
+
+.patterns{
+    margin-left: 15px;
+    float: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.btn_hinoreng{
+    width: 90px;
+    height: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    margin-right: 50px
+}
+
+#hindi_vid{
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    border-radius: 15px;
+}
+
+.btn_eng{
+    width: 90px;
+    height: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    margin-left: 50px;
+}
+
+#vid_cre{
+    margin-left: 15px;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 2px;
+    border-color: black;
+}
+
+.credit{
+    margin-left: 15px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    height: 80px;
+    width: 100%;
+}
+
+#back{
+    float: left;
+    margin-left: 10px;
+}
+
+#img_111{
+    width: 400px;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+.heading_2{
+    width: 100%;
+    letter-spacing: 2px;
+}
+
+.headingalgo{
+    width: 100%;
+    letter-spacing: 2px;
+}
+
+#language_txt{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 2px;
+    border-color: black;
+}
+
+#text{
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#copyright_section{
+    float: left;
+    margin-left: 5px;
+    color: white;
+    margin-top: 55px;
+    border-width: 2px;
+    border: 3px;
+    border-color: white;
+}
+
+#solverub_sec{
+    font-weight: bolder;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#patt_sec{
+    font-weight: bolder;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#algo_sec{
+    font-weight: bolder;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.heading{
+    width: 100%;
+    letter-spacing: 2px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: rgb(255, 255, 255);
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    line-height: 2;
+    text-align: center;
+    border-radius: 15px;
+    border-style: solid;
+    border-width: 4px;
+    border-color: rgb(255, 0, 0);
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-weight: bolder;
+}
